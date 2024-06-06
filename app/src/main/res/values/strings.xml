@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="boton_principal">Enviar</string>
+    <string name="ingresar_mensaje">Ingrese su mensaje aquí</string>
+    <string name="mensaje_recibido">Mensaje recibido</string>
+    <string name="responder">Responder</string>
+    <string name="ingresar_respuesta">Ingrese su respuesta aquí</string>
+    <string name="texto_encabezado_respuesta">Respuesta recibida</string>
+</resources>
